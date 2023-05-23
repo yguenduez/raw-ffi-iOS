@@ -21,7 +21,8 @@ The paths have to be added to the `Library Search Path` in the Xcode `Build Sett
 At best use different paths for the different architectures in configs (arm64/arm64-sim/x86_64 and Debug/Release),
 so the correct static lib `*.a` are fetched.
 
-But as mentioned - the static library has only be added once - for the name.
+But as mentioned - the static library has only been added once - for the name. The correct one is fetched via
+the `Library Search Paths`.
 
 # Create Bridging Header
 
