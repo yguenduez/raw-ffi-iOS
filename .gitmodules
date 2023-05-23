@@ -1,0 +1,3 @@
+[submodule "raw-ffi-iOS-client"]
+	path = raw-ffi-iOS-client
+	url = git@github.com:yguenduez/raw-ffi-iOS-client.git
